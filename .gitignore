@@ -5,6 +5,6 @@
 /routes
 /util
 .env
-.index
-.package-lock
-.package
+.index.js
+.package-lock.json
+.package.json
