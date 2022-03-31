@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\ravi2\\Desktop\\logging-example\\logs\\errorLogs\\.7f6992706bca8430d970f8c56cdfe2d159dc06ce-audit.json",
+    "files": [
+        {
+            "date": 1648714668163,
+            "name": "C:\\Users\\ravi2\\Desktop\\logging-example\\logs\\errorLogs\\error-2022-03-31-00.log",
+            "hash": "ea959fe6eaaf6eac306e523ad106caa6"
+        }
+    ],
+    "hashType": "md5"
+}
